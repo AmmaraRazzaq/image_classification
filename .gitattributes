@@ -1,0 +1,2 @@
+*betonfiles/valset.beton filter=lfs diff=lfs merge=lfs -text
+*.beton filter=lfs diff=lfs merge=lfs -text
